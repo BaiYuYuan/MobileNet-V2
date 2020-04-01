@@ -34,7 +34,8 @@ pip install -r requirements.txt
 
 ### Run
 ```
-python main.py config/<your-config-json-file>.json
+python main.py --config config/cifar10_test_exp.json
+
 ```
 
 ### Experiments
